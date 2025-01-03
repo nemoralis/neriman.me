@@ -1,0 +1,40 @@
+baseURL = "https://neriman.me"
+theme = "hugo-bearcub"
+copyright = "Nəriman Məmmədli (CC-BY)"
+defaultContentLanguage = "en"
+
+[markup]
+  [markup.highlight]
+    lineNos = true
+    lineNumbersInTable = false
+    noClasses = false
+
+# Multilingual mode config. More for information about how to setup translation,
+# see https://gohugo.io/content-management/multilingual/
+[languages]
+  [languages.en]
+    title = "Nəriman Məmmədli"
+    languageName = "English"
+    LanguageCode = "en-US"
+    contentDir = "content"
+    [languages.en.params]
+      madeWith = "Made with [Bear Cub](https://github.com/clente/hugo-bearcub)"
+  [languages.az]
+    title = "Nəriman Məmmədli"
+    languageName = "Azərbaycanca"
+    LanguageCode = "az-AZ"
+    contentDir = "content.az"
+    [languages.az.params]
+      madeWith = "[Bear Cub](https://github.com/clente/hugo-bearcub) ilə hazırlanıb"
+
+[params]
+  description = "Nəriman Məmmədli"
+  favicon = "images/favicon.png"
+  title = "Nəriman Məmmədli"
+  dateFormat = "2006-01-02"
+  hideUntranslated = true
+  themeStyle = "original"
+
+  [params.author]
+    name = "Nəriman Məmmədli"
+    email = "contact@neriman.me"
