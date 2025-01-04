@@ -31,12 +31,7 @@ Nəysə, deyəsən çox danışdım. Yuxarıdakı bloq keçidinə klikləyərək
 
 ## Əlaqə
 
-- E-poçt: [contact@neriman.me]
-- Telegram: [nerim4n]
-- Instagram: [nerim4nm] (sadəcə tanıdığım adamları qəbul edirəm)
-- Mastodon: <a href="https://wikis.world/@neriman" rel="me">@neriman@wikis.world</a>
-
-
-[contact@neriman.me]: mailto:contact@neriman.me
-[nerim4n]: https://t.me/nerim4n
-[nerim4nm]: https://instagram.com/nerim4nm
+- E-poçt: {{< rawhtml >}}<a href="mailto:contact@neriman.me">contact@neriman.me</a>{{</ rawhtml >}}
+- Telegram: {{< rawhtml >}}<a href="https://t.me/nerim4n">nerim4n</a>{{</ rawhtml >}}
+- Instagram: {{< rawhtml >}}<a href="https://instagram.com/nerim4nm">nerim4nm</a>{{</ rawhtml>}} (sadəcə tanıdıqlarımı qəbul edirəm.)
+- Mastodon: {{< rawhtml >}}<a href="https://wikis.world/@neriman" rel="me">@neriman@wikis.world</a>{{</ rawhtml >}}

@@ -1,6 +1,6 @@
 baseURL = "https://neriman.me"
 theme = "hugo-bearcub"
-copyright = "Nəriman Məmmədli (CC-BY)"
+copyright = "Nəriman Məmmədli (CC BY-SA 4.0)"
 defaultContentLanguage = "en"
 
 [markup]
@@ -9,8 +9,6 @@ defaultContentLanguage = "en"
     lineNumbersInTable = false
     noClasses = false
 
-# Multilingual mode config. More for information about how to setup translation,
-# see https://gohugo.io/content-management/multilingual/
 [languages]
   [languages.en]
     title = "Nəriman Məmmədli"
