@@ -4,35 +4,35 @@ copyright = "Nəriman Məmmədli (CC BY-SA 4.0)"
 defaultContentLanguage = "en"
 
 [markup]
-  [markup.highlight]
-    lineNos = true
-    lineNumbersInTable = false
-    noClasses = false
+[markup.highlight]
+lineNos = true
+lineNumbersInTable = false
+noClasses = false
 
 [languages]
-  [languages.en]
-    title = "Nəriman Məmmədli"
-    languageName = "English"
-    LanguageCode = "en-US"
-    contentDir = "content"
-    [languages.en.params]
-      madeWith = "Made with [Bear Cub](https://github.com/clente/hugo-bearcub)"
-  [languages.az]
-    title = "Nəriman Məmmədli"
-    languageName = "Azərbaycanca"
-    LanguageCode = "az-AZ"
-    contentDir = "content.az"
-    [languages.az.params]
-      madeWith = "[Bear Cub](https://github.com/clente/hugo-bearcub) ilə hazırlanıb"
+[languages.en]
+title = "Nəriman Məmmədli"
+languageName = "English"
+LanguageCode = "en-US"
+contentDir = "content"
+[languages.en.params]
+madeWith = "Made with [Bear Cub](https://github.com/clente/hugo-bearcub)"
+[languages.az]
+title = "Nəriman Məmmədli"
+languageName = "Azərbaycanca"
+LanguageCode = "az-AZ"
+contentDir = "content.az"
+[languages.az.params]
+madeWith = "[Bear Cub](https://github.com/clente/hugo-bearcub) ilə hazırlanıb"
 
 [params]
-  description = "Nəriman Məmmədli"
-  favicon = "images/favicon.png"
-  title = "Nəriman Məmmədli"
-  dateFormat = "2006-01-02"
-  hideUntranslated = true
-  themeStyle = "original"
+description = "Nəriman Məmmədli"
+favicon = "images/favicon.png"
+title = "Nəriman Məmmədli"
+dateFormat = "2006-01-02"
+hideUntranslated = true
+themeStyle = "herman"
 
-  [params.author]
-    name = "Nəriman Məmmədli"
-    email = "contact@neriman.me"
+[params.author]
+name = "Nəriman Məmmədli"
+email = "contact@neriman.me"
