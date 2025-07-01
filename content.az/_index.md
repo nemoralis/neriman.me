@@ -11,7 +11,7 @@ Bakıda yaşayan bir tələbəyəm. Boş vaxtlarımda Vikipediyada redaktə, tə
 
 Kodlaşdırmaya təxminən 2019-cu il ərəfəsində başlamışam. Buna həvəs aktiv olaraq istifadə etdiyim Discord platformasında yaradılan botları görməyim idi. İndiyə qədər Discordda ən böyük layihəm hesab etdiyim botumun [mənbə kodu] üçün buraya klikləyə bilərsiniz. Botun əsas funksiyası Twitterdə istənilən ictimai profilə abunə olmaq və həmin profil yeni tweet atdıqda Discorddan bildiriş almaq idi. Təəssüf ki, [İlon Mask Twitteri satın aldıqdan] sonra [Twitter API-dən pulsuz istifadəni dayandırdı] və mən də layihəni dayandırmaq məcburiyyətində qaldım.
 
-Könüllü tərcüməçi olaraq [translatewiki], [Crowdin], və [Transifex] platformalarında ümumilikdə 20 mindən çox tərcüməm var. [MediaWiki], Vikipediyanın Android, KaiOS, iOS [mobil tətbiqləri], [Creative Commons lisenziyaları], Gartic.io və Mastodon kimi böyük layihələrdə mənim tərcümələrim var.
+Könüllü tərcüməçi olaraq [translatewiki], [Crowdin], və [Transifex] platformalarında ümumilikdə 20 mindən çox tərcüməm var. [MediaWiki], Vikipediyanın Android, KaiOS, iOS [mobil tətbiqləri], [Creative Commons lisenziyaları], [Gartic.io] və Mastodon kimi böyük layihələrdə mənim tərcümələrim var.
 
 [Azərbaycanca Vikipediyada]: https://az.wikipedia.org/
 [İnterfeys inzibatçısı]: https://az.wikipedia.org/wiki/Vikipediya:%C4%B0nterfeys_inzibat%C3%A7%C4%B1lar%C4%B1
@@ -25,7 +25,7 @@ Könüllü tərcüməçi olaraq [translatewiki], [Crowdin], və [Transifex] plat
 [MediaWiki]: https://translatewiki.net/wiki/Translating:MediaWiki
 [mobil tətbiqləri]: https://translatewiki.net/wiki/Translating:WikimediaMobile
 [Creative Commons lisenziyaları]: https://wiki.creativecommons.org/wiki/Translating_CC_Deeds
-<!-- [Gartic.io]: https://gartic.io/thanks -->
+[Gartic.io]: https://gartic.io/thanks
 
 Nəysə, deyəsən çox danışdım. Yuxarıdakı bloq keçidinə klikləyərək tez-tez yazmağa çalışacağım bloq yazılarımı oxuya bilərsiniz.
 
@@ -33,5 +33,5 @@ Nəysə, deyəsən çox danışdım. Yuxarıdakı bloq keçidinə klikləyərək
 
 - E-poçt: {{< rawhtml >}}<a href="mailto:contact@neriman.me">contact@neriman.me</a>{{</ rawhtml >}}
 - Telegram: {{< rawhtml >}}<a href="https://t.me/nerim4n">nerim4n</a>{{</ rawhtml >}}
-- Instagram: {{< rawhtml >}}<a href="https://instagram.com/nerim4nm">nerim4nm</a>{{</ rawhtml>}} (sadəcə tanıdıqlarımı qəbul edirəm.)
+- Instagram: {{< rawhtml >}}<a href="https://instagram.com/nerimanmli">nerimanmli</a>{{</ rawhtml>}} (sadəcə tanıdıqlarımı qəbul edirəm.)
 - Mastodon: {{< rawhtml >}}<a href="https://wikis.world/@neriman" rel="me">@neriman@wikis.world</a>{{</ rawhtml >}}

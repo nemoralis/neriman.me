@@ -31,6 +31,6 @@ I haven't started writing blog posts, but I will start soon.
 
 - E-mail: {{< rawhtml >}}<a href="mailto:contact@neriman.me">contact@neriman.me</a>{{</ rawhtml >}}
 - Telegram: {{< rawhtml >}}<a href="https://t.me/nerim4n">nerim4n</a>{{</ rawhtml >}}
-- Instagram: {{< rawhtml >}}<a href="https://instagram.com/nerim4nm">nerim4nm</a>{{</ rawhtml>}} (I only accept follow requests from people I know.)
+- Instagram: {{< rawhtml >}}<a href="https://instagram.com/nerimanmli">nerimanmli</a>{{</ rawhtml>}} (I only accept follow requests from people I know.)
 - Mastodon: {{< rawhtml >}}<a href="https://wikis.world/@neriman" rel="me">@neriman@wikis.world</a>{{</ rawhtml >}}
 - Github: {{< rawhtml >}}<a href="https://github.com/nemoralis">nemoralis</a>{{</ rawhtml >}}
