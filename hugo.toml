@@ -1,6 +1,6 @@
 baseURL = "https://neriman.me"
 theme = "hugo-bearcub"
-copyright = "Nəriman Məmmədli (CC BY-SA 4.0)"
+copyright = "Nəriman (CC BY-SA 4.0)"
 defaultContentLanguage = "en"
 
 [markup]
@@ -11,14 +11,14 @@ noClasses = false
 
 [languages]
 [languages.en]
-title = "Nəriman Məmmədli"
+title = "Neriman"
 languageName = "English"
 LanguageCode = "en-US"
 contentDir = "content"
 [languages.en.params]
 madeWith = "Made with [Bear Cub](https://github.com/clente/hugo-bearcub)"
 [languages.az]
-title = "Nəriman Məmmədli"
+title = "Nəriman"
 languageName = "Azərbaycanca"
 LanguageCode = "az-AZ"
 contentDir = "content.az"
@@ -26,13 +26,11 @@ contentDir = "content.az"
 madeWith = "[Bear Cub](https://github.com/clente/hugo-bearcub) ilə hazırlanıb"
 
 [params]
-description = "Nəriman Məmmədli"
-favicon = "images/favicon.png"
-title = "Nəriman Məmmədli"
+title = "Nəriman"
 dateFormat = "2006-01-02"
 hideUntranslated = true
-themeStyle = "herman"
+themeStyle = "original"
 
 [params.author]
-name = "Nəriman Məmmədli"
+name = "Nəriman"
 email = "contact@neriman.me"
