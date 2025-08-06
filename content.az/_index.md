@@ -25,6 +25,6 @@ Yuxarıda "Bloq" keçidi görə bilərsiniz amma hələ ki, heç bir şey yazmam
 ## Əlaqə
 
 - E-poçt: {{< rawhtml >}}<a href="mailto:contact@neriman.me">contact@neriman.me</a>{{</ rawhtml >}}
-- Telegram: {{< rawhtml >}}<a href="https://t.me/nemoralis">nerim4n</a>{{</ rawhtml >}}
+- Telegram: {{< rawhtml >}}<a href="https://t.me/nemoralis">nemoralis</a>{{</ rawhtml >}}
 - Mastodon: {{< rawhtml >}}<a href="https://wikis.world/@neriman" rel="me">@neriman@wikis.world</a>{{</ rawhtml >}}
 - Github: {{< rawhtml >}}<a href="https://github.com/nemoralis">nemoralis</a>{{</ rawhtml >}}

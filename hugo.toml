@@ -13,14 +13,14 @@ noClasses = false
 [languages.en]
 title = "Neriman"
 languageName = "English"
-LanguageCode = "en-US"
+LanguageCode = "en"
 contentDir = "content"
 [languages.en.params]
 madeWith = "Made with [Bear Cub](https://github.com/clente/hugo-bearcub)"
 [languages.az]
 title = "Nəriman"
 languageName = "Azərbaycanca"
-LanguageCode = "az-AZ"
+LanguageCode = "az"
 contentDir = "content.az"
 [languages.az.params]
 madeWith = "[Bear Cub](https://github.com/clente/hugo-bearcub) ilə hazırlanıb"
@@ -30,7 +30,3 @@ title = "Nəriman"
 dateFormat = "2006-01-02"
 hideUntranslated = true
 themeStyle = "original"
-
-[params.author]
-name = "Nəriman"
-email = "contact@neriman.me"
