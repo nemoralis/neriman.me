@@ -1,4 +1,4 @@
-baseURL = "https://neriman.me"
+baseURL = "https://neriman.me/"
 theme = "hugo-bearcub"
 copyright = "Nəriman (CC BY-SA 4.0)"
 defaultContentLanguage = "en"
@@ -30,3 +30,6 @@ title = "Nəriman"
 dateFormat = "2006-01-02"
 hideUntranslated = true
 themeStyle = "original"
+
+[markup.goldmark.renderer]
+unsafe = true

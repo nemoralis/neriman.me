@@ -28,3 +28,12 @@ Yuxarıda "Bloq" keçidi görə bilərsiniz amma hələ ki, heç bir şey yazmam
 - Telegram: {{< rawhtml >}}<a href="https://t.me/nemoralis">nemoralis</a>{{</ rawhtml >}}
 - Mastodon: {{< rawhtml >}}<a href="https://wikis.world/@neriman" rel="me">@neriman@wikis.world</a>{{</ rawhtml >}}
 - Github: {{< rawhtml >}}<a href="https://github.com/nemoralis">nemoralis</a>{{</ rawhtml >}}
+
+## Dəstək
+İstəsəniz gördüyüm işə dəstək ola bilərsiniz:
+- {{< rawhtml >}}<a href="https://kofe.al/@neriman">Kofe al! ☕</a>{{</ rawhtml >}}
+
+
+{{< rawhtml >}}
+<img src="../images/kofeal.png" width="150px" height="120px" style="display: flex">
+{{</ rawhtml >}}
