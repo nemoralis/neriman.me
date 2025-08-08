@@ -30,6 +30,3 @@ title = "Nəriman"
 dateFormat = "2006-01-02"
 hideUntranslated = true
 themeStyle = "original"
-
-[markup.goldmark.renderer]
-unsafe = true

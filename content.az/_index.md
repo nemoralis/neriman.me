@@ -24,9 +24,9 @@ Yuxarıda "Bloq" keçidi görə bilərsiniz amma hələ ki, heç bir şey yazmam
 [xəritəsini]: https://map.neriman.me/
 ## Əlaqə
 
-- E-poçt: {{< rawhtml >}}<a href="mailto:contact@neriman.me">contact@neriman.me</a>{{</ rawhtml >}}
+- E-poçt: {{< rawhtml >}}<a href="mailto:contact@neriman.me"><!--email_off-->contact@neriman.me<!--/email_off--></a>{{</ rawhtml >}}
 - Telegram: {{< rawhtml >}}<a href="https://t.me/nemoralis">nemoralis</a>{{</ rawhtml >}}
-- Mastodon: {{< rawhtml >}}<a href="https://wikis.world/@neriman" rel="me">@neriman@wikis.world</a>{{</ rawhtml >}}
+- Mastodon: {{< rawhtml >}}<a href="https://wikis.world/@neriman" rel="me"><!--email_off-->@neriman@wikis.world<!--/email_off--></a>{{</ rawhtml >}}
 - Github: {{< rawhtml >}}<a href="https://github.com/nemoralis">nemoralis</a>{{</ rawhtml >}}
 
 ## Dəstək
